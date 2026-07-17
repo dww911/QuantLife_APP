@@ -63,29 +63,62 @@ Model
 
 ## 📱 Android 安装
 
-1. 下载本仓库里的 `.apk` 文件。
-2. 发送到 Android 手机。
-3. 点击安装。
-4. 如果系统提示“未知来源应用”，按提示允许安装。
-5. 打开 QuantLife，创建本地档案。
+Android 用户请下载仓库里的 APK 文件安装。
 
-当前 APK：
+当前 Android 安装包：
 
 ```text
 QuantLife_local_v0.1.0_build6.apk
 ```
 
+安装步骤：
+
+1. 点击仓库文件列表里的 `QuantLife_local_v0.1.0_build6.apk`。
+2. 点击 GitHub 页面里的 `Download raw file` 下载 APK。
+3. 把 APK 发送到 Android 手机，或直接在 Android 手机上下载。
+4. 点击 APK 安装。
+5. 如果系统提示“未知来源应用”，按提示允许当前浏览器或文件管理器安装。
+6. 安装完成后打开 QuantLife，创建本地档案。
+
+说明：
+
+- APK 只能用于 Android 手机，不能用于 iPhone。
+- 当前仓库内 APK 是旧版 `0.1.0 build6`。
+- 最新开源代码版本是 `0.3.0+10`，如果需要最新版 Android 安装包，需要重新打包。
+
 ---
 
 ## 🍎 iOS 使用
 
-iPhone 不能安装 `.apk`。
+iPhone / iPad 用户请通过 TestFlight 安装 QuantLife。
 
-iOS 版本需要通过 TestFlight 或 App Store 分发。请查看：
+TestFlight 邀请链接：
+
+```text
+https://testflight.apple.com/join/UrdwF1Z9
+```
+
+安装步骤：
+
+1. 在 App Store 搜索并下载 TestFlight。
+2. 使用 iPhone 或 iPad 打开上面的 TestFlight 邀请链接。
+3. 点击“接受”。
+4. 点击“安装”。
+5. 安装完成后，在桌面打开 QuantLife。
+
+如果微信里无法直接跳转，请复制链接到 Safari 浏览器中打开。
+
+更多说明请查看：
 
 ```text
 IOS版本_使用和下载方式.txt
 ```
+
+注意：
+
+- iPhone 不能安装 Android 的 `.apk` 文件。
+- 当前 iOS 版本通过 TestFlight 分发。
+- 建议系统版本为 iOS / iPadOS 16 或以上。
 
 开发者可通过 Codemagic 构建 TestFlight 包：
 

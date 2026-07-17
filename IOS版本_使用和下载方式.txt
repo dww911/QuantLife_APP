@@ -1,16 +1,24 @@
-### 📱 **QuantLife iOS 版开放 TestFlight 测试啦！**
+QuantLife iOS 版使用和下载方式
 
-苹果用户可以按照下面的步骤安装：
+苹果用户请通过 TestFlight 安装 QuantLife。
 
-1️⃣ 在 App Store 搜索并下载 **TestFlight**
-2️⃣ 使用 iPhone 或 iPad 打开下方链接：
+TestFlight 邀请链接：
 https://testflight.apple.com/join/UrdwF1Z9
-3️⃣ 点击「接受」→「安装」
-4️⃣ 安装完成后，就可以在桌面打开 QuantLife 啦！
 
-如果微信里无法直接跳转，可以复制链接到 **Safari 浏览器**打开。
+安装步骤：
 
-⚠️ 目前仅支持 iPhone/iPad，系统需要 iOS/iPadOS 16 或以上。
-这是测试版本，使用过程中遇到问题或有任何建议，欢迎反馈给我们～
+1. 在 App Store 搜索并下载 TestFlight。
+2. 使用 iPhone 或 iPad 打开上面的 TestFlight 邀请链接。
+3. 点击“接受”。
+4. 点击“安装”。
+5. 安装完成后，在桌面打开 QuantLife。
 
-![image-20260717170921901](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260717170921901.png)
+如果在微信里无法直接跳转，请复制链接到 Safari 浏览器中打开。
+
+注意事项：
+
+- iPhone 不能安装 Android 的 APK 文件。
+- 当前 iOS 版本通过 TestFlight 分发。
+- 目前仅支持 iPhone / iPad。
+- 建议系统版本为 iOS / iPadOS 16 或以上。
+- 这是测试版本，使用过程中如果遇到问题，欢迎反馈。
